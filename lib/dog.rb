@@ -25,6 +25,7 @@ end
 masha = Dog.new("Masha")
 masha.name
 
+masha.breed = ""
 
 
     
