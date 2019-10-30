@@ -13,6 +13,18 @@ class Dog
   end
   
   def breed=(dogs_breed)
-    @breed = 
+    @breed = dogs_breed
+  end
+  
+  def breed
+    @breed 
+  end
+
+end
+
+masha = Dog.new("Masha")
+masha.name
+
+
 
     
