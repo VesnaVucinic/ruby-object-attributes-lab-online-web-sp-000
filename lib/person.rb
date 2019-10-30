@@ -7,8 +7,8 @@ def name
     @name
   end
   
-  def job=(job_rolle)
-    @job = job_rolle
+  def job=(job)
+    @job = job
   end
   
   def job 
